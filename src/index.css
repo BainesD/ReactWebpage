@@ -3,4 +3,18 @@
     width: 50px !important;
     height: 50px;
 } 
+h1{
+    display: flex;
+justify-content: center;
+}
 
+ul{
+    display: table;
+    margin: 0 auto;
+}
+
+footer{
+position: fixed;
+bottom: 2px;
+left: 25px;
+}
