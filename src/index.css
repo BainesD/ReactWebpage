@@ -1,14 +1,10 @@
-.logo{
-    
-    width: 50px !important;
-    height: 50px;
-} 
+
 h1{
     display: flex;
 justify-content: center;
 }
 
-ul{
+.info-list{
     display: table;
     margin: 0 auto;
 }
@@ -18,3 +14,4 @@ position: fixed;
 bottom: 2px;
 left: 25px;
 }
+
