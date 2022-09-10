@@ -2,7 +2,7 @@ import React from "react";
 
 export default function MainContent() {
     return (
-      <div>
+      <div className="">
         <h1>Fun Facts About React</h1>
         <ul className="info-list">
           <li>Was first released in 2013</li>
